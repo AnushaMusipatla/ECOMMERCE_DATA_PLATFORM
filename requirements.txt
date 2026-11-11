@@ -1,0 +1,3 @@
+# Pandas handles typed CSV ingestion; pytest runs the automated test suite.
+pandas>=2.2
+pytest>=8.0

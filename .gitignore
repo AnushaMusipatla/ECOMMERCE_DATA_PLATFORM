@@ -1,0 +1,17 @@
+__pycache__/
+.env
+.env.*
+!.env.example
+.venv/
+.python-version
+.pytest_cache/
+.pytest-tmp/
+.pytest-run/
+data/raw/
+data/validated/
+data/curated/
+data/rejects/
+data/output/
+database/*.db
+logs/*.log
+reports/*
